@@ -13,40 +13,35 @@ class FrmPersegi:
         mainFrame.pack(fill=BOTH, expand=YES)
 
         # pasang Label
-        Label(mainFrame, text='Panjang:').grid(row=0, column=0, sticky=W, padx=5, pady=5)
-        Label(mainFrame, text="Lebar:").grid(row=1, column=0, sticky=W, padx=5, pady=5)
-        Label(mainFrame, text="Luas:").grid(row=3, column=0, sticky=W, padx=5, pady=5)
-        Label(mainFrame, text="Keliling:").grid(row=4, column=0, sticky=W, padx=5, pady=5)
+        Label(mainFrame, text='Sisi:').grid(row=0, column=0, sticky=W, padx=5, pady=5)
+        Label(mainFrame, text="Luas:").grid(row=2, column=0, sticky=W, padx=5, pady=5)
+        Label(mainFrame, text="Keliling:").grid(row=3, column=0, sticky=W, padx=5, pady=5)
 
         # pasang textbox
-        self.txtPanjang = Entry(mainFrame)
-        self.txtPanjang.grid(row=0, column=1, padx=5, pady=5)
-
-        self.txtLebar = Entry(mainFrame)
-        self.txtLebar.grid(row=1, column=1, padx=5, pady=5)
+        self.txtSisi = Entry(mainFrame)
+        self.txtSisi.grid(row=0, column=1, padx=5, pady=5)
 
         self.txtLuas = Entry(mainFrame)
-        self.txtLuas.grid(row=3, column=1, padx=5, pady=5)
+        self.txtLuas.grid(row=2, column=1, padx=5, pady=5)
 
         self.txtKeliling = Entry(mainFrame)
-        self.txtKeliling.grid(row=4, column=1, padx=5, pady=5)
+        self.txtKeliling.grid(row=3, column=1, padx=5, pady=5)
 
         # Pasang Button
         self.btnHitung = Button(mainFrame, text='Hitung', command=self.onHitung)
-        self.btnHitung.grid(row=2, column=1, padx=5, pady=5)
+        self.btnHitung.grid(row=1, column=1, padx=5, pady=5)
 
     # fungsi untuk menghitung luas dan keliling persegi panjang
     def onHitung(self, event=None):
 
         # perhitungan dengan metode Pemrograman Tidak Terstruktur
-        panjang = int(self.txtPanjang.get())
-        lebar = int(self.txtLebar.get())
+        sisi = int(self.txtSisi.get())
 
-        luas = panjang * lebar
+        luas = sisi ** 2
         self.txtLuas.delete(0,END)
         self.txtLuas.insert(END,str(luas))
 
-        kel = (2 * panjang) + (2 * lebar)
+        kel = 4 * sisi
         self.txtKeliling.delete(0,END)
         self.txtKeliling.insert(END,str(kel))
 
@@ -56,5 +51,5 @@ class FrmPersegi:
 
 if __name__ == '__main__':
     root = Tk()
-    aplikasi = FrmPersegi(root, "Program Luas dan Keliling Persegi Panjang")
+    aplikasi = FrmPersegi(root, "Program Luas dan Keliling Persegi")
     root.mainloop()
