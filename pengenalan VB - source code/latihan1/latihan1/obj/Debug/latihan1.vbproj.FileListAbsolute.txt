@@ -1,0 +1,15 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\bin\Debug\latihan1.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.persegi.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.persegi_panjang.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.lingkaran.resources
+C:\Users\Ahmad Nur Cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.belah_ketupat.resources
+C:\Users\Ahmad Nur Cahyadi\documents\visual studio 2015\Projects\latihan1\latihan1\obj\Debug\latihan1.segitiga.resources

@@ -1,0 +1,15 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\bin\Debug\praktikum1.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\bin\Debug\praktikum1.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\bin\Debug\praktikum1.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\bin\Debug\praktikum1.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.balok.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.kubus.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.tabung.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.bola.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\praktikum1\praktikum1\obj\Debug\praktikum1.kerucut.resources
