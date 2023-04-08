@@ -1,0 +1,14 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\bin\Debug\aplikasiKonversiSuhu.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\bin\Debug\aplikasiKonversiSuhu.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\bin\Debug\aplikasiKonversiSuhu.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\bin\Debug\aplikasiKonversiSuhu.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.celcius.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.kelvin.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.fahrenheit.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\aplikasiKonversiSuhu\aplikasiKonversiSuhu\obj\Debug\aplikasiKonversiSuhu.reamur.resources
