@@ -1,0 +1,15 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\bin\Debug\pertemuan5.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\bin\Debug\pertemuan5.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\bin\Debug\pertemuan5.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\bin\Debug\pertemuan5.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.bonus.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.kelulusan.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.pdb
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.jabatan.resources
+C:\Users\Ahmad Nur Cahyadi\documents\visual studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.mutuMahasiswa.resources
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\pertemuan5\pertemuan5\obj\Debug\pertemuan5.bonusJabatan.resources
