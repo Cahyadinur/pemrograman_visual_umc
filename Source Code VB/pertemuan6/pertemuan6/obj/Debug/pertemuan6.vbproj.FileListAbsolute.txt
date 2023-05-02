@@ -1,0 +1,13 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\bin\Debug\pertemuan6.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\bin\Debug\pertemuan6.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\bin\Debug\pertemuan6.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\bin\Debug\pertemuan6.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.registrasi.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.kasir.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan6\pertemuan6\obj\Debug\pertemuan6.tiket.resources
