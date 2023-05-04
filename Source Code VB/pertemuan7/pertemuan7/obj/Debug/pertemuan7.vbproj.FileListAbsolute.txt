@@ -1,0 +1,15 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\bin\Debug\pertemuan7.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\bin\Debug\pertemuan7.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\bin\Debug\pertemuan7.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\bin\Debug\pertemuan7.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Form1.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Form2.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Form3.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Form4.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Form5.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan7\pertemuan7\obj\Debug\pertemuan7.pdb
