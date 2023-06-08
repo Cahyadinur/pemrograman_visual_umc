@@ -1,0 +1,13 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\bin\Debug\pertemuan10.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\bin\Debug\pertemuan10.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\bin\Debug\pertemuan10.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\bin\Debug\pertemuan10.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\bin\Debug\MySql.Data.dll
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form1.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.pdb
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form2.resources

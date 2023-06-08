@@ -1,0 +1,12 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\bin\Debug\pertemuan9.exe.config
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\bin\Debug\pertemuan9.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\bin\Debug\pertemuan9.pdb
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\bin\Debug\pertemuan9.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\bin\Debug\MySql.Data.dll
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.vbprojResolveAssemblyReference.cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.Form1.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.Resources.resources
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.vbproj.GenerateResource.Cache
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.exe
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.xml
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan9\pertemuan9\obj\Debug\pertemuan9.pdb
