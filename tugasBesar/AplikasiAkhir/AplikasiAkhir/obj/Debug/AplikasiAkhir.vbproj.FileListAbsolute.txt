@@ -1,0 +1,29 @@
+c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\AplikasiAkhir.exe.config
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\AplikasiAkhir.exe
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\AplikasiAkhir.pdb
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\AplikasiAkhir.xml
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\MySql.Data.dll
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.Resources.resources
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.obat.resources
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.penjualan.resources
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.exe
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.xml
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.pdb
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.dashboard.resources
+C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.login.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\bin\Debug\AplikasiAkhir.exe.config
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.exe
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.xml
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.pdb
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.vbprojResolveAssemblyReference.cache
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.dashboard.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.login.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.Resources.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.obat.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.penjualan.resources
+E:\Coding Master\pemrograman_visual_umc\tugasBesar\AplikasiAkhir\AplikasiAkhir\obj\Debug\AplikasiAkhir.vbproj.GenerateResource.Cache

@@ -11,3 +11,7 @@ c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\per
 c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.xml
 c:\users\ahmad nur cahyadi\documents\visual studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.pdb
 C:\Users\Ahmad Nur Cahyadi\Documents\Visual Studio 2015\Projects\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form2.resources
+E:\Coding Master\pemrograman_visual_umc\Source Code VB\pertemuan10\pertemuan10\bin\Debug\pertemuan10.exe.config
+E:\Coding Master\pemrograman_visual_umc\Source Code VB\pertemuan10\pertemuan10\obj\Debug\pertemuan10.exe
+E:\Coding Master\pemrograman_visual_umc\Source Code VB\pertemuan10\pertemuan10\obj\Debug\pertemuan10.xml
+E:\Coding Master\pemrograman_visual_umc\Source Code VB\pertemuan10\pertemuan10\obj\Debug\pertemuan10.pdb
